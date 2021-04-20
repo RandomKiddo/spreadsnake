@@ -17,6 +17,7 @@ on:
     paths-ignore:
     - '**/*.md'
     - '**/*.txt'
+    - '**/*.rst'
   schedule:
     - cron: '44 11 * * 6'
 
