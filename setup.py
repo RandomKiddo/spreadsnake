@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name = 'spreadsnake',
-    packages = ['spreadsnake', 'spreadsnake.xlsx', 'spreadsnake.google'],
+    packages = ['spreadsnake'],
     version = '1.0a1',
     license = 'MIT',
     description = 'A python spreadsheet api',
